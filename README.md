@@ -1,7 +1,7 @@
 # stage_3_developer_roadmap
 * HTML5 (семантическая вёрстка)
 
-Базовая структура: ```<!DOCTYPE html>, <head>, <meta>, <title>, <body>.
+Базовая структура: DOCTYPE html, <head>, <meta>, <title>, <body>.
 
 Семантические теги: <header>, <nav>, <main>, <article>, <section>, <aside>, <footer>.
 
